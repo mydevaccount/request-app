@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Approval Requests" max_length="40" name="x_snc_external_app_approval_requests" type="collection"/>
+</database>
